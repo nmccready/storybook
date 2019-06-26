@@ -1,6 +1,6 @@
 {
-  "name": "@storybook/addon-knobs",
-  "version": "5.2.0-alpha.30",
+  "name": "@znemz/addon-knobs",
+  "version": "5.2.0-alpha.31",
   "description": "Storybook Addon Prop Editor Component",
   "keywords": [
     "addon",
